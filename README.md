@@ -7,7 +7,7 @@ This is all I want to share with all of u
 👋 Hi, I'm Kishan Kumar!
 
 🎓 I’m currently pursuing a Bachelor of Technology (B.Tech.) with a specialization in Artificial Intelligence and Data Science.
-💻 I’m focused on learning programming, building small projects, and improving my problem-solving skills.
+💻 I’m focused on learning programming, building small projects , enhance the projects with day by day learning and improving my problem-solving skills.
 
 
 ---
