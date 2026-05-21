@@ -17,6 +17,8 @@
 -> types of machine learning
 
  1. supervised()
+    ->regression
+    ->classification
 
  2.unsupervised()
 
