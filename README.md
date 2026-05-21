@@ -1,5 +1,5 @@
 👋 Hi, I'm 
-🎓 I’m currently pursuing a Bachelor of Technology h.) with ialization in Artificia
+🎓 I’m currently pursuing a Bachelor of Technology h.) with ialization in Artific
 # What i learn today
 
 -> learn python and basics.
