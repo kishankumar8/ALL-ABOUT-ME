@@ -1,5 +1,5 @@
 👋 Hi, I'm 
-🎓 I’m currently pursuing a Bachelor of Technology h.) with ializati
+🎓 I’m currently pursuing a Bachelor of Technology h.) with ializat
 # What i learn today
 
 -> learn python and basics.
