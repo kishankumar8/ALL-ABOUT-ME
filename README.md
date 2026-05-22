@@ -15,7 +15,7 @@
 
 -> types of machine learning
 
- 1. supervised()
+ 1. supervised(learn from labelled data and labelled have input and its correct output)
 
 
   ->regression->regression(its have out[put of numerical values)
