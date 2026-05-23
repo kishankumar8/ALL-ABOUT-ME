@@ -1,5 +1,5 @@
 👋 Hi, I'm 
-🎓 I’m currently pursuing a Bachelor of Technolo 
+🎓 I’m currently pursuing a Bachelor of Technol
 # What i learn today
 
 -> learn python and basics.
