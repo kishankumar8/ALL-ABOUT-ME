@@ -30,3 +30,4 @@
  4.Reinforcement()
 
 -> BATCH LEARNING 
+-> ONLINE LEARNING
