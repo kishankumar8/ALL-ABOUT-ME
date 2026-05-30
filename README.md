@@ -28,3 +28,5 @@
  3.semisupervised()
 
  4.Reinforcement()
+
+-> BATCH LEARNING 
