@@ -29,7 +29,7 @@
 
  4.Reinforcement()
 
--> BATCH LEARNING 
+-> BATCH LEARNING ()
 
 
 -> ONLINE LEARNING
