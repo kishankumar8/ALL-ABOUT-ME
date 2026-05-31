@@ -8,7 +8,7 @@
 ->numpy and pandas
 
 
-->doing work on visualization
+->did work on visualization
 
 
 ->learn hashmap 
