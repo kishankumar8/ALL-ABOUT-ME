@@ -31,6 +31,8 @@
 
  4.Reinforcement()
 
+
+
 -> BATCH LEARNING ()
 
 
