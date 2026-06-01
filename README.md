@@ -1,5 +1,5 @@
 👋 Hi, I'm 
-🎓 I’m currently pursuing a Bachelor of 
+🎓 I’m currently pursuing a Bachelor o
 
 
 # What i learn today
