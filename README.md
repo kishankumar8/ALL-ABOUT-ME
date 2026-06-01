@@ -1,5 +1,5 @@
 👋 Hi, I'm 
-🎓 I’m currently pursuing a Bach
+🎓 I’m currently pursuing a B
 
 
 # What i learn today
