@@ -1,5 +1,5 @@
 👋 Hi, I'm 
-🎓 I’m currently pur
+🎓 I’m currently p
 
 
 # What i learn today
