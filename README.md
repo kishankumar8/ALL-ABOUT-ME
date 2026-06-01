@@ -1,5 +1,5 @@
 👋 Hi, I'm 
-🎓 I’m currently p
+🎓 I’m currently 
 
 
 # What i learn today
