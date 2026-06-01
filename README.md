@@ -1,5 +1,7 @@
 👋 Hi, I'm 
 🎓 I’m currently pursuing a Bachelor of Tec
+
+
 # What i learn today
 
 -> learn python and basics.
