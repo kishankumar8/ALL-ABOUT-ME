@@ -1,5 +1,5 @@
 👋 Hi, I'm 
-🎓 I’m currently pursu
+🎓 I’m currently pur
 
 
 # What i learn today
