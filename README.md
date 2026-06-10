@@ -1,4 +1,4 @@
-👋
+
 
 # What i learn today
 
