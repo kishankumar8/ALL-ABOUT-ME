@@ -1,5 +1,5 @@
 👋 Hi, I'm 
-🎓 I’m curren
+🎓 I’m cur
 
 
 # What i learn today
