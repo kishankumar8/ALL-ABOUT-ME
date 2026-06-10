@@ -1,5 +1,5 @@
 👋 Hi, I'm 
-🎓 I’m
+🎓
 
 
 # What i learn today
