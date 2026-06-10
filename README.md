@@ -1,5 +1,4 @@
-👋 Hi, I'm 
-🎓
+👋 Hi, I'
 
 
 # What i learn today
