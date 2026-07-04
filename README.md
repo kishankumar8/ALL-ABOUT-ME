@@ -17,7 +17,7 @@
  1. supervised(learn from labelled data and labelled have input and its correct output)
 
 
-  ->regre->regression(its have out[put of numerical values)
+  ->regression(its have out[put of numerical values)
   
   ->classification(its have output of catogrical values)
    
