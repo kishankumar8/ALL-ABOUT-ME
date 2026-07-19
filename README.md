@@ -31,8 +31,7 @@
 
  4.Reinforcement()
 
-nothi
-
+nothing
 -> BATCH LEARNING ()
 
 
