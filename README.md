@@ -31,7 +31,7 @@
 
  4.Reinforcement()
 
-
+nothi
 
 -> BATCH LEARNING ()
 
