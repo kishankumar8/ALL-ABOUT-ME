@@ -1,4 +1,3 @@
-
 # What i learn today
 
 -> learn python and basics.
